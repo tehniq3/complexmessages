@@ -4,4 +4,4 @@ base info from https://www.oreilly.com/library/view/arduino-cookbook/97814493993
 
 ![test](https://1.bp.blogspot.com/-esS126GoGmY/XPAsAlp7UKI/AAAAAAAAZVY/NhdmzGW1SGoh5HzdYgTKHhEL8LfaDILUgCLcBGAs/s1600/IMG_20190530_215119.jpg)
 
-!pschematic](https://1.bp.blogspot.com/-K9vphHkAbU4/XPAvwmflLVI/AAAAAAAAZVk/I3k65NIFw9UBjoEaX0T9CQ1qX0SIMWp9QCLcBGAs/s1600/serialcomm_2Arduino.png)
+![schematic](https://1.bp.blogspot.com/-K9vphHkAbU4/XPAvwmflLVI/AAAAAAAAZVk/I3k65NIFw9UBjoEaX0T9CQ1qX0SIMWp9QCLcBGAs/s1600/serialcomm_2Arduino.png)
