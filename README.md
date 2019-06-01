@@ -1,8 +1,10 @@
 # complexmessages
 base info from https://www.oreilly.com/library/view/arduino-cookbook/9781449399368/ch04.html
 
-my articles - https://nicuflorica.blogspot.com/2019/05/mesaje-complexe-intre-placi-arduino-pe.html
-& https://nicuflorica.blogspot.com/2019/06/mesaje-complexe-intre-placi-arduino-pe.html
+my articles:
+- https://arduinotehniq.blogspot.com/2019/06/sending-and-receiving-multiple-text.html
+- https://nicuflorica.blogspot.com/2019/05/mesaje-complexe-intre-placi-arduino-pe.html
+- https://nicuflorica.blogspot.com/2019/06/mesaje-complexe-intre-placi-arduino-pe.html
 
 ![test](https://1.bp.blogspot.com/-esS126GoGmY/XPAsAlp7UKI/AAAAAAAAZVY/NhdmzGW1SGoh5HzdYgTKHhEL8LfaDILUgCLcBGAs/s1600/IMG_20190530_215119.jpg)
 
